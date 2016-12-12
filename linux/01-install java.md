@@ -36,3 +36,6 @@ java version "1.8.0_112"
 Java(TM) SE Runtime Environment (build 1.8.0_112-b15)
 Java HotSpot(TM) 64-Bit Server VM (build 25.112-b15, mixed mode)
 ```
+
+###升级
+只需要下载最新的tar包，然后重新把软链接指向新包就可以了。
