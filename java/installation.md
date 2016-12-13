@@ -1,5 +1,15 @@
+## mac
+推荐使用brew安装。
+```
+brew install java
+```
+
+
+## linux
 ###下载安装
 ####使用root用户和切换到/usr/local目录
+> 本文是centos6.5环境
+
 ```
 su - root
 cd /usr/local
@@ -10,6 +20,9 @@ wget http://download.oracle.com/otn-pub/java/jdk/8u112-b15/jdk-8u112-linux-x64.t
 tar -xzvf jdk-8u112-linux-x64.tar.gz
 rm jdk-8u112-linux-x64.tar.gz
 ```
+
+> wget的链接需要先去oracle官网[jdk8](http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html)接受协议，然后下载复制链接。
+
 ####创建软链接
 ```
 ln -s jdk1.8.0_112/ java
