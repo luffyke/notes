@@ -12,7 +12,7 @@ My IT notes, all are practiced and would be keep to update.
 ### Database
 - Mysql
 - Redis
-- MongoDB
+- [MongoDB](https://github.com/luffyke/notes/tree/master/mongo)
 
 ### Build Management
 - [Maven](https://github.com/luffyke/notes/tree/master/maven)
