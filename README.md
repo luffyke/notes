@@ -4,7 +4,7 @@ My IT notes, all are practiced and would be keep to update.
 ## Category
 ### Development language
 - [Java](https://github.com/luffyke/notes/tree/master/java)
-- Golang
+- [Golang](https://github.com/luffyke/notes/tree/master/go)
 
 ### OS
 - [Linux](https://github.com/luffyke/notes/tree/master/linux)
