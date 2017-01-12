@@ -10,7 +10,7 @@ My IT notes, all are practiced and would be keep to update.
 - [Linux](https://github.com/luffyke/notes/tree/master/linux)
 
 ### Database
-- Mysql
+- Mysql(https://github.com/luffyke/notes/tree/master/mysql)
 - Redis
 - [MongoDB](https://github.com/luffyke/notes/tree/master/mongo)
 
