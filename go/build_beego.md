@@ -1,3 +1,13 @@
+## Deploy beego
+这是部署beego的shell。
+### 步骤
+1. 输入dev或者prod表面环境
+2. 修改conf/app.conf中的runmode
+3. 查找服务pid，如果存在，kill pid
+4. 执行go build编译
+5. 运行编译后的可执行文件
+
+### 代码
 ```
 #! /bin/bash
 
