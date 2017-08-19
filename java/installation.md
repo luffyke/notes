@@ -21,7 +21,7 @@ tar -xzvf jdk-8u112-linux-x64.tar.gz
 rm jdk-8u112-linux-x64.tar.gz
 ```
 
-> wget的链接需要先去oracle官网[jdk8](http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html)接受协议，然后下载复制链接。
+> wget的链接需要先去oracle官网[jdk8](http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html)接受协议，然后下载复制链接。服务器端下载[server-jre](http://www.oracle.com/technetwork/java/javase/downloads/server-jre8-downloads-2133154.html)。
 
 ####创建软链接
 ```
